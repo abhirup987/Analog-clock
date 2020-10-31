@@ -1,2 +1,0 @@
-# Todolist
-Simple chores list.
